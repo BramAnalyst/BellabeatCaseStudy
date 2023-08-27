@@ -4,14 +4,14 @@
 
 
 
-#Bellabeat
+## Bellabeat
 
   •	A High-tech manufacturer of health-focused products for women.
 
 
 
 
-#Business Task
+## Business Task
 
   •	Analyze fitness smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices and apply these insights to one Bellabeat product to identify new growth opportunities.
   Products
@@ -29,7 +29,7 @@
 
 
   
-#Key stakeholders: 
+## Key stakeholders: 
 
   •	Urška Sršen CCO
   
@@ -39,8 +39,8 @@
 
 
 
-#Data:
-***
+## Data:
+
   
 The data is a public domain dataset gathered by Amazon Mechanical Turk using Biometric data collected from the Fitbit devices of 30 willing users.  The Fitbit devices were connected to a 3rd party online software  system, Fitabase, which allowed access of 1 month retrospective and prospective data from the date of consent.  The data was collected over the time period of March 12th, 2016, to May 12th, 2016.
   
