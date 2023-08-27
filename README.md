@@ -15,6 +15,11 @@
 
   •	Analyze fitness smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices and apply these insights to one Bellabeat product to identify new growth opportunities.
   Products
+
+
+
+
+## Products
   
   •	Bellabeat App: Provides user with health-related data related to their activity, sleep, stress, menstrual cycle, and mindfulness habits.
   
