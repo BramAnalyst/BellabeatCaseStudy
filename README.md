@@ -14,7 +14,7 @@
 ## Business Task
 
   •	Analyze fitness smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices and apply these insights to one Bellabeat product to identify new growth opportunities.
-  Products
+  
 
 
 
