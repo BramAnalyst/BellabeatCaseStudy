@@ -56,11 +56,11 @@ Reliability: The data was collected from monetarily incentivized participants th
 Originality: The data was collected by a third-party organization.
 
 Comprehensive: The original goal of the study this data was collected for was to test the feasibility of extracting personal Fitbit data from remote survey respondents and link biometric data to questionnaire health data. 
- This dataset currently does not provide any of the questionnaire data that was originally linked to biometric data and the original intent was not determine trends among a sample representative of a population.
+ This dataset currently does not provide any of the questionnaire data that was originally linked to biometric data and the original intent was not determine device usage trends among a sample representative of a population.
 
 Current: The data was collected via Amazon Mechanical Turk between March 12th, 2016, and May 12th, 2016, therefore data may not accurately reflect current trends.
 
-Cited: The data was collected from a panel Mturkers, a workforce of individuals willing to participate in online research studies in exchange for monetary incentive.  The data is cited, and limitations as well as the goal of the study described in a separate document.  Furberg, R., Brinton, J., Keating, M., & Ortiz, A. (2016). Crowd-sourced Fitbit datasets 03.12.2016-05.12.2016 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.53894
+Cited: The data was collected from a panel of Mturkers, a workforce of individuals willing to participate in online research studies in exchange for monetary incentive.  The data is cited, and limitations as well as the goal of the study described in a separate document.  Furberg, R., Brinton, J., Keating, M., & Ortiz, A. (2016). Crowd-sourced Fitbit datasets 03.12.2016-05.12.2016 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.53894
 
 The data is incomprehensive and is not up-to-current, therefore my analysis will provide hints into possible trends and marketing strategy recommendations.  Subsequent analysis with a more comprehensive and current dataset is required to verify these findings.
  
